@@ -47,4 +47,5 @@ Parcelas:
 ```
 
 <br>
+
 Feito com ♥ por Samuell Torres :wave:   [Entre em contato!](https://www.linkedin.com/in/samuelltorres/)
